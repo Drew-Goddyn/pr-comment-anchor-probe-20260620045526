@@ -2,7 +2,7 @@ line 01: base
 line 02: base
 line 03: base
 line 04: base
-line 05: base
+line 05: commit C unrelated earlier edit
 line 06: base
 line 07: base
 line 08: base
