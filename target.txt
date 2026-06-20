@@ -22,7 +22,7 @@ line 21: base
 line 22: base
 line 23: base
 line 24: base
-line 25: base
+line 25: commit B head edit
 line 26: base
 line 27: base
 line 28: base
